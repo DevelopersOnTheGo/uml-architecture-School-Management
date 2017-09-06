@@ -1,6 +1,6 @@
-tocTab[tocTab.length] = new Array("0.1.1.8:1", "", "Class Model", "EARoot/EA1/EA1/EA8/EA110.html", "175.png", "118", "0", "", "Logical diagram0","{44D45B62-6828-4ed7-8404-263B184BC584}");
-tocTab[tocTab.length] = new Array("0.1.1.8:2", "", "Atenciones", "EARoot/EA1/EA1/EA8/EA113.html", "5.png", "E502", "0", "", "Class0","{B32FBDB0-903D-4035-ACAC-B307C3052505}");
-tocTab[tocTab.length] = new Array("0.1.1.8:3", "", "Citas", "EARoot/EA1/EA1/EA8/EA114.html", "5.png", "E503", "0", "", "Class0","{C46573DE-3519-407b-BF0E-0F1EBA89D7F5}");
-tocTab[tocTab.length] = new Array("0.1.1.8:4", "", "Escuela de padres", "EARoot/EA1/EA1/EA8/EA115.html", "5.png", "E501", "0", "", "Class0","{AA0A7377-A17B-435f-A599-11FDA7B52458}");
-tocTab[tocTab.length] = new Array("0.1.1.8:5", "", "Ficha de Visita", "EARoot/EA1/EA1/EA8/EA116.html", "5.png", "E500", "0", "", "Class0","{A7F5C4B1-796F-4713-9F76-0EFD9B05E794}");
-tocTab[tocTab.length] = new Array("0.1.1.8:6", "", "Perfil de aula", "EARoot/EA1/EA1/EA8/EA117.html", "5.png", "E504", "0", "", "Class0","{ECE71D65-BCBF-45e4-87B1-FD4DCD1EAEB9}");
+tocTab[tocTab.length] = new Array("1.1.8:1", "", "Class Model", "EARoot/EA1/EA1/EA8/EA89.htm", "175.png", "80", "0", "", "Logical diagram0","{44D45B62-6828-4ed7-8404-263B184BC584}");
+tocTab[tocTab.length] = new Array("1.1.8:2", "", "Atenciones", "EARoot/EA1/EA1/EA8/EA91.htm", "5.png", "314", "0", "", "Class0","{B32FBDB0-903D-4035-ACAC-B307C3052505}");
+tocTab[tocTab.length] = new Array("1.1.8:3", "", "Citas", "EARoot/EA1/EA1/EA8/EA92.htm", "5.png", "315", "0", "", "Class0","{C46573DE-3519-407b-BF0E-0F1EBA89D7F5}");
+tocTab[tocTab.length] = new Array("1.1.8:4", "", "Escuela de padres", "EARoot/EA1/EA1/EA8/EA93.htm", "5.png", "313", "0", "", "Class0","{AA0A7377-A17B-435f-A599-11FDA7B52458}");
+tocTab[tocTab.length] = new Array("1.1.8:5", "", "Ficha de Visita", "EARoot/EA1/EA1/EA8/EA94.htm", "5.png", "312", "0", "", "Class0","{A7F5C4B1-796F-4713-9F76-0EFD9B05E794}");
+tocTab[tocTab.length] = new Array("1.1.8:6", "", "Perfil de aula", "EARoot/EA1/EA1/EA8/EA95.htm", "5.png", "316", "0", "", "Class0","{ECE71D65-BCBF-45e4-87B1-FD4DCD1EAEB9}");
