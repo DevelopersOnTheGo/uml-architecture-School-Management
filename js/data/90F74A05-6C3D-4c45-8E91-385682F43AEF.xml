@@ -1,1 +1,2 @@
-tocTab[tocTab.length] = new Array("0.1.1.1:1", "", "Modulo matricula", "EARoot/EA1/EA1/EA1/EA23.html", "175.png", "111", "0", "", "Logical diagram0","{2D7B00A8-252E-48e3-A261-22F7E4061628}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1", "1", "matricula", "EARoot/EA1/EA1/EA1/EA1/EA23.html", "4.png", "", "", "{21D7A58F-C4D7-43f5-A31D-8C9372153D21}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.1.2", "1", "registro de estudiantes", "EARoot/EA1/EA1/EA1/EA2/EA31.html", "4.png", "", "", "{C11D95D6-AABD-4f11-BD79-93036F5B12CC}", "Package");

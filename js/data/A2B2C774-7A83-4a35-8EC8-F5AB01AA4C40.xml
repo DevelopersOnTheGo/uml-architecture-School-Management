@@ -1,7 +1,1 @@
-tocTab[tocTab.length] = new Array("0.1.1.3:1", "", "Class Model", "EARoot/EA1/EA1/EA3/EA33.html", "175.png", "122", "0", "", "Logical diagram0","{BA8CA50D-51EA-472a-8563-6C53345CC457}");
-tocTab[tocTab.length] = new Array("0.1.1.3:2", "", "actividades de la institucion asistencia", "EARoot/EA1/EA1/EA3/EA36.html", "5.png", "E529", "0", "", "Class0","{32B9C466-98FA-4437-96E6-CABEB3457162}");
-tocTab[tocTab.length] = new Array("0.1.1.3:3", "", "docentes_asistencia", "EARoot/EA1/EA1/EA3/EA37.html", "5.png", "E530", "0", "", "Class0","{42565017-2C93-486f-85C5-82031129C2B6}");
-tocTab[tocTab.length] = new Array("0.1.1.3:4", "", "Escuel de padres asistencia", "EARoot/EA1/EA1/EA3/EA38.html", "5.png", "E533", "0", "", "Class0","{D8D16FE9-8E9A-4aa6-9E86-F0DD4A2EFFA4}");
-tocTab[tocTab.length] = new Array("0.1.1.3:5", "", "estado asistencia", "EARoot/EA1/EA1/EA3/EA39.html", "247.png", "E532", "0", "", "Enumeration0","{5BA70AED-4F04-4b06-B3B4-2FE2A8E50BC2}");
-tocTab[tocTab.length] = new Array("0.1.1.3:6", "", "estudiante_asistencia", "EARoot/EA1/EA1/EA3/EA40.html", "5.png", "E528", "0", "", "Class0","{19681959-3212-4cc7-8037-6236D63B3602}");
-tocTab[tocTab.length] = new Array("0.1.1.3:7", "", "seciones de tutoria asistencia", "EARoot/EA1/EA1/EA3/EA41.html", "5.png", "E531", "0", "", "Class0","{4E4AFCC3-9B7B-4739-9F94-8EBE9C095085}");
+tocTab[tocTab.length] = new Array("0.1.1.3.1", "1", "Models", "EARoot/EA1/EA1/EA3/EA1/EA53.html", "4.png", "", "", "{5008D44F-CB4E-4d90-99D1-09411103C93E}", "Package");

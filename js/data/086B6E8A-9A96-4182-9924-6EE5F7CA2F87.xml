@@ -1,5 +1,9 @@
-tocTab[tocTab.length] = new Array("0.1.1.2:1", "", "System", "EARoot/EA1/EA1/EA2/EA26.html", "175.png", "110", "0", "", "Logical diagram0","{887BC06C-9575-403e-ABA5-462569FFF78E}");
-tocTab[tocTab.length] = new Array("0.1.1.2:2", "", "Class1", "EARoot/EA1/EA1/EA2/EA29.html", "5.png", "E465", "0", "", "Class0","{94024F2F-907B-432d-B242-717C723F0177}");
-tocTab[tocTab.length] = new Array("0.1.1.2:3", "", "Class2", "EARoot/EA1/EA1/EA2/EA30.html", "5.png", "E467", "0", "", "Class0","{F8B6E819-ACBC-4bd7-A624-ECD1E9CB86BC}");
-tocTab[tocTab.length] = new Array("0.1.1.2:4", "", "Class3", "EARoot/EA1/EA1/EA2/EA31.html", "5.png", "E464", "0", "", "Class0","{3EF6E93E-6C85-4523-B00C-6D8911EB4C17}");
-tocTab[tocTab.length] = new Array("0.1.1.2:5", "", "Interface1", "EARoot/EA1/EA1/EA2/EA32.html", "8.png", "E466", "0", "", "Interface0","{B9A097D3-2B02-4520-AAAE-38F72128DD88}");
+tocTab[tocTab.length] = new Array("0.1.1.2:1", "", "Notas y cursos", "EARoot/EA1/EA1/EA2/EA37.html", "175.png", "197", "0", "", "Logical diagram0","{887BC06C-9575-403e-ABA5-462569FFF78E}");
+tocTab[tocTab.length] = new Array("0.1.1.2:2", "", "Competencias", "EARoot/EA1/EA1/EA2/EA41.html", "5.png", "E1106", "0", "", "Class0","{2372C45D-57B3-4914-96FE-189D3362029C}");
+tocTab[tocTab.length] = new Array("0.1.1.2:3", "", "Criterios de Evaluacion", "EARoot/EA1/EA1/EA2/EA42.html", "5.png", "E1109", "0", "", "Class0","{B2CACEAA-D181-4aef-8B38-59F865BF9C12}");
+tocTab[tocTab.length] = new Array("0.1.1.2:4", "", "Criterios_Evaluacion", "EARoot/EA1/EA1/EA2/EA43.html", "5.png", "E1108", "0", "", "Class0","{A0159506-A517-4346-9C3B-2CAA1211C24B}");
+tocTab[tocTab.length] = new Array("0.1.1.2:5", "", "detalle_competencia_area", "EARoot/EA1/EA1/EA2/EA44.html", "5.png", "E1099", "0", "", "Class0","{12770C28-2B1C-4fc9-BA12-6BEA33878921}");
+tocTab[tocTab.length] = new Array("0.1.1.2:6", "", "EvaluacionCompetencia", "EARoot/EA1/EA1/EA2/EA45.html", "230.png", "E1110", "0", "", "DataType0","{CF478EBA-BAB0-4c49-9B25-1604DAA4F9CB}");
+tocTab[tocTab.length] = new Array("0.1.1.2:7", "", "EvaluacionCompetencia", "EARoot/EA1/EA1/EA2/EA46.html", "5.png", "E1105", "0", "", "Class0","{129F5546-822F-475d-A6B4-B6058A8C1453}");
+tocTab[tocTab.length] = new Array("0.1.1.2:8", "", "NotaCriterio", "EARoot/EA1/EA1/EA2/EA47.html", "5.png", "E1107", "0", "", "Class0","{35B1F556-A22C-4a9f-AD9C-A213955A808D}");
+tocTab[tocTab.length] = new Array("0.1.1.2:9", "", "Notas", "EARoot/EA1/EA1/EA2/EA48.html", "5.png", "E1104", "0", "", "Class0","{09DA182D-EF36-494e-B3F1-7488EF47C614}");
