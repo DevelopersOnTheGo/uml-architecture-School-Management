@@ -1,9 +1,0 @@
-tocTab[tocTab.length] = new Array("1.2.4.1.1:1", "", "Users", "EARoot/EA1/EA2/EA4/EA1/EA1/EA191.html", "6.png", "444", "0", "", "Actor0","{72F1B0A9-8A99-41c1-A2F1-2BDEC28A2E28}");
-tocTab[tocTab.length] = new Array("1.2.4.1.1:2", "", "Administrador", "EARoot/EA1/EA2/EA4/EA1/EA1/EA192.html", "6.png", "435", "0", "", "Actor0","{1FE64CC6-BA9B-448c-A48B-F95526DC25A9}");
-tocTab[tocTab.length] = new Array("1.2.4.1.1:3", "", "Director", "EARoot/EA1/EA2/EA4/EA1/EA1/EA193.html", "6.png", "436", "0", "", "Actor0","{564C0E8F-947A-4d19-A2CD-BB8F05731C10}");
-tocTab[tocTab.length] = new Array("1.2.4.1.1:4", "", "Docente", "EARoot/EA1/EA2/EA4/EA1/EA1/EA194.html", "6.png", "438", "0", "", "Actor0","{78A7959F-F9E1-4d26-8919-FDFEDF3F90B0}");
-tocTab[tocTab.length] = new Array("1.2.4.1.1:5", "", "Estudiante", "EARoot/EA1/EA2/EA4/EA1/EA1/EA195.html", "6.png", "440", "0", "", "Actor0","{DE26732B-FE5E-4d0f-A168-5A5E6395F1A5}");
-tocTab[tocTab.length] = new Array("1.2.4.1.1:6", "", "Padre", "EARoot/EA1/EA2/EA4/EA1/EA1/EA196.html", "6.png", "437", "0", "", "Actor0","{69CC505A-2471-40ce-A505-EDCD28147C43}");
-tocTab[tocTab.length] = new Array("1.2.4.1.1:7", "", "Presidente - Junta Padres", "EARoot/EA1/EA2/EA4/EA1/EA1/EA197.html", "6.png", "439", "0", "", "Actor0","{80F50110-98AC-48df-A3ED-666D71CB708D}");
-tocTab[tocTab.length] = new Array("1.2.4.1.1:8", "", "Psicologo", "EARoot/EA1/EA2/EA4/EA1/EA1/EA198.html", "6.png", "434", "0", "", "Actor0","{0F9CCE0A-B747-4a44-A7B8-CBB20D0AB591}");
-tocTab[tocTab.length] = new Array("1.2.4.1.1:9", "", "Sistema", "EARoot/EA1/EA2/EA4/EA1/EA1/EA199.html", "6.png", "433", "0", "", "Actor0","{071E2A22-DD05-4bce-ACD2-35D070087EDF}");

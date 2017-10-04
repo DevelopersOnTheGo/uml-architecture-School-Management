@@ -1,1 +1,7 @@
-tocTab[tocTab.length] = new Array("1.1.1:1", "", "MVC", "EARoot/EA1/EA1/EA1/EA24.html", "10.png", "467", "0", "", "Component0","{9F28074A-1812-4c95-8C45-4AFE6304D693}");
+tocTab[tocTab.length] = new Array("1.1.2:1", "", "«API REST» routers", "EARoot/EA1/EA1/EA2/EA33.html", "25.png", "798", "0", "", "Object0","{207BBB3B-6F5F-4718-9B01-5A99BC86C269}");
+tocTab[tocTab.length] = new Array("1.1.2.1", "", "ApiViews", "EARoot/EA1/EA1/EA2/EA27.html", "4.png", "", "", "{0EF90AC1-7287-4adf-85D7-4E16D657FED0}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.2", "", "Cliente: Android", "EARoot/EA1/EA1/EA2/EA28.html", "4.png", "", "", "{FC50E701-11CF-4fd4-B611-1F34E1911423}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.3", "", "Cliente: Web", "EARoot/EA1/EA1/EA2/EA29.html", "4.png", "", "", "{518F1C20-21A7-4d42-982F-8583D044634B}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.4", "", "Cliente:Tablet_Web", "EARoot/EA1/EA1/EA2/EA30.html", "4.png", "", "", "{19670475-710E-40ca-8837-C794E695A493}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.5", "", "Mananger", "EARoot/EA1/EA1/EA2/EA31.html", "4.png", "", "", "{5B575CEF-B6D3-48d7-BDE4-B5AF7106E80D}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.6", "", "Models", "EARoot/EA1/EA1/EA2/EA32.html", "4.png", "", "", "{A725C28D-18C0-4ca2-8A03-DAB60F4299EB}", "Package");
