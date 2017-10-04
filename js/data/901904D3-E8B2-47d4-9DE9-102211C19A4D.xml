@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("1.2.8.2:1", "", "Class Model", "EARoot/EA1/EA2/EA8/EA2/EA378.html", "175.png", "19", "0", "", "Logical diagram0","{44D45B62-6828-4ed7-8404-263B184BC584}");
+tocTab[tocTab.length] = new Array("1.2.8.2:2", "", "actividades_padres", "EARoot/EA1/EA2/EA8/EA2/EA381.html", "5.png", "166", "0", "", "Class0","{AA0A7377-A17B-435f-A599-11FDA7B52458}");
+tocTab[tocTab.length] = new Array("1.2.8.2:3", "", "Citas", "EARoot/EA1/EA2/EA8/EA2/EA382.html", "5.png", "169", "0", "", "Class0","{C46573DE-3519-407b-BF0E-0F1EBA89D7F5}");
+tocTab[tocTab.length] = new Array("1.2.8.2:4", "", "Ficha_Visita", "EARoot/EA1/EA2/EA8/EA2/EA383.html", "5.png", "165", "0", "", "Class0","{A7F5C4B1-796F-4713-9F76-0EFD9B05E794}");
+tocTab[tocTab.length] = new Array("1.2.8.2:5", "", "Perfil_Aula", "EARoot/EA1/EA2/EA8/EA2/EA384.html", "5.png", "170", "0", "", "Class0","{ECE71D65-BCBF-45e4-87B1-FD4DCD1EAEB9}");
+tocTab[tocTab.length] = new Array("1.2.8.2:6", "", "Responsable", "EARoot/EA1/EA2/EA8/EA2/EA385.html", "5.png", "168", "0", "", "Class0","{C23BD298-6ADE-48a2-BC42-385B45E667A9}");
+tocTab[tocTab.length] = new Array("1.2.8.2:7", "", "Seciones", "EARoot/EA1/EA2/EA8/EA2/EA386.html", "5.png", "167", "0", "", "Class0","{B32FBDB0-903D-4035-ACAC-B307C3052505}");
