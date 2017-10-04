@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("1.1:1", "", "Arquitectura", "EARoot/EA1/EA1/EA6.html", "178.png", "90", "0", "", "Component diagram0","{635C4D12-DA35-497f-A01C-CA0FE3CA6C00}");
-tocTab[tocTab.length] = new Array("1.1:2", "", "Vista Logica", "EARoot/EA1/EA1/EA8.html", "176.png", "88", "0", "", "Package diagram0","{B8AB0E71-84CC-423c-AAAE-044911671A4B}");
+tocTab[tocTab.length] = new Array("1.1:1", "", "Arquitectura", "EARoot/EA1/EA1/EA6.html", "178.png", "104", "0", "", "Component diagram0","{635C4D12-DA35-497f-A01C-CA0FE3CA6C00}");
+tocTab[tocTab.length] = new Array("1.1:2", "", "Vista Logica", "EARoot/EA1/EA1/EA8.html", "176.png", "103", "0", "", "Package diagram0","{B8AB0E71-84CC-423c-AAAE-044911671A4B}");
 tocTab[tocTab.length] = new Array("1.1.1", "1", "Modulos", "EARoot/EA1/EA1/EA17.html", "4.png", "", "", "{2B21EC6B-9C50-42b8-9394-E97A97F56676}", "Package");
 tocTab[tocTab.length] = new Array("1.1.2", "1", "Componentes", "EARoot/EA1/EA1/EA12.html", "4.png", "", "", "{367A81B5-317E-4a76-92D7-EA1F8C3563F0}", "Package");

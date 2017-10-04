@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("1.2.3.2:1", "", "Class Model", "EARoot/EA1/EA2/EA3/EA2/EA275.html", "175.png", "129", "0", "", "Logical diagram0","{BA8CA50D-51EA-472a-8563-6C53345CC457}");
+tocTab[tocTab.length] = new Array("1.2.3.2:2", "", "actividades de la institucion asistencia", "EARoot/EA1/EA2/EA3/EA2/EA278.html", "5.png", "1164", "0", "", "Class0","{32B9C466-98FA-4437-96E6-CABEB3457162}");
+tocTab[tocTab.length] = new Array("1.2.3.2:3", "", "Asistencia_Docentes", "EARoot/EA1/EA2/EA3/EA2/EA279.html", "5.png", "1165", "0", "", "Class0","{389B0A11-338E-4e51-8707-C16BAEF2A71E}");
+tocTab[tocTab.length] = new Array("1.2.3.2:4", "", "Asistencia_Estudiante", "EARoot/EA1/EA2/EA3/EA2/EA280.html", "5.png", "1166", "0", "", "Class0","{39CA2D91-F579-46db-971E-1A418DCFB292}");
+tocTab[tocTab.length] = new Array("1.2.3.2:5", "", "CHOICES_ESTADO_ASISTENCIA", "EARoot/EA1/EA2/EA3/EA2/EA281.html", "5.png", "1168", "0", "", "Class0","{5BA70AED-4F04-4b06-B3B4-2FE2A8E50BC2}");
+tocTab[tocTab.length] = new Array("1.2.3.2:6", "", "docente", "EARoot/EA1/EA2/EA3/EA2/EA282.html", "5.png", "1170", "0", "", "Class0","{BE8249EC-4D71-4c49-8D8B-CE92450CE60B}");
+tocTab[tocTab.length] = new Array("1.2.3.2:7", "", "docentes_asistencia", "EARoot/EA1/EA2/EA3/EA2/EA283.html", "5.png", "1167", "0", "", "Class0","{42565017-2C93-486f-85C5-82031129C2B6}");
+tocTab[tocTab.length] = new Array("1.2.3.2:8", "", "Escuela_padres_asistencia", "EARoot/EA1/EA2/EA3/EA2/EA284.html", "5.png", "1171", "0", "", "Class0","{D8D16FE9-8E9A-4aa6-9E86-F0DD4A2EFFA4}");
+tocTab[tocTab.length] = new Array("1.2.3.2:9", "", "estudiante_asistencia", "EARoot/EA1/EA2/EA3/EA2/EA285.html", "5.png", "1162", "0", "", "Class0","{19681959-3212-4cc7-8037-6236D63B3602}");
+tocTab[tocTab.length] = new Array("1.2.3.2:10", "", "Seciones_tutoria_asistencia", "EARoot/EA1/EA2/EA3/EA2/EA286.html", "5.png", "1163", "0", "", "Class0","{292C2E2F-94EB-4845-9B5A-25F7BC30B44F}");
