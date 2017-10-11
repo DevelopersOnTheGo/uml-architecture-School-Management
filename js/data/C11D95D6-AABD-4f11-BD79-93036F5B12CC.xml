@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("1.2.1.2.2:1", "", "registro de estudiantes", "EARoot/EA1/EA2/EA1/EA2/EA2/EA103.html", "175.png", "112", "0", "", "Logical diagram0","{4D7BDE9C-6579-47e5-B554-D23B6F940ECB}");
-tocTab[tocTab.length] = new Array("1.2.1.2.2:2", "", "Chioce_Religion", "EARoot/EA1/EA2/EA1/EA2/EA2/EA106.html", "5.png", "1020", "0", "", "Class0","{4E3EB44A-7FFD-4874-A36A-FF853E84ABB5}");
-tocTab[tocTab.length] = new Array("1.2.1.2.2:3", "", "Domicilio", "EARoot/EA1/EA2/EA1/EA2/EA2/EA107.html", "5.png", "1024", "0", "", "Class0","{FC262499-04D3-466d-9595-7F9396701D66}");
-tocTab[tocTab.length] = new Array("1.2.1.2.2:4", "", "Otros_dts", "EARoot/EA1/EA2/EA1/EA2/EA2/EA108.html", "5.png", "1023", "0", "", "Class0","{F55FD7AE-2CCF-4f49-BEEF-C185A6455957}");
-tocTab[tocTab.length] = new Array("1.2.1.2.2:5", "", "Situacion_laboral", "EARoot/EA1/EA2/EA1/EA2/EA2/EA109.html", "5.png", "1021", "0", "", "Class0","{4E946C24-0682-40a3-A011-FBECDC64DCBF}");
+tocTab[tocTab.length] = new Array("1.2.1.2.2:1", "", "registro de estudiantes", "EARoot/EA1/EA2/EA1/EA2/EA2/EA105.html", "175.png", "158", "0", "", "Logical diagram0","{4D7BDE9C-6579-47e5-B554-D23B6F940ECB}");
+tocTab[tocTab.length] = new Array("1.2.1.2.2:2", "", "Chioce_Religion", "EARoot/EA1/EA2/EA1/EA2/EA2/EA108.html", "5.png", "1430", "0", "", "Class0","{4E3EB44A-7FFD-4874-A36A-FF853E84ABB5}");
+tocTab[tocTab.length] = new Array("1.2.1.2.2:3", "", "Domicilio", "EARoot/EA1/EA2/EA1/EA2/EA2/EA109.html", "5.png", "1434", "0", "", "Class0","{FC262499-04D3-466d-9595-7F9396701D66}");
+tocTab[tocTab.length] = new Array("1.2.1.2.2:4", "", "Otros_dts", "EARoot/EA1/EA2/EA1/EA2/EA2/EA110.html", "5.png", "1433", "0", "", "Class0","{F55FD7AE-2CCF-4f49-BEEF-C185A6455957}");
+tocTab[tocTab.length] = new Array("1.2.1.2.2:5", "", "Situacion_laboral", "EARoot/EA1/EA2/EA1/EA2/EA2/EA111.html", "5.png", "1431", "0", "", "Class0","{4E946C24-0682-40a3-A011-FBECDC64DCBF}");

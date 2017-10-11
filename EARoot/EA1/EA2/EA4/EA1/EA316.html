@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Models::Turno</title>
+<title>Models::Secciones</title>
 <link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {
@@ -16,15 +16,15 @@ function initPage(src) {
 <body onload="initPage(this);" class="Content">
 <div class="pageHeader"></div>
 <div class="PageBody">
-	<span class="ObjectTitle">Turno  : public   clase</span>
+	<span class="ObjectTitle">Secciones  : public   clase</span>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>
-			<td width="85%" class="ObjectDetailsValue">6/09/2017 09:38:31</td>
+			<td width="85%" class="ObjectDetailsValue">12/09/2017 02:52:14</td>
 		</tr>
 		<tr>
 			<td class="ObjectDetailsTopic">Modified:</td>
-			<td class="ObjectDetailsValue">6/09/2017 09:38:54</td>
+			<td class="ObjectDetailsValue">12/09/2017 02:52:36</td>
 		</tr>
 		<tr style="height: 10px"><td colspan="2"></td></tr>
 		<tr>
@@ -33,7 +33,7 @@ function initPage(src) {
 		</tr>
 		<tr id="proj00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
-			<td class="ObjectDetailsValue">Alumnos</td>
+			<td class="ObjectDetailsValue">rusbe</td>
 		</tr>
 		<tr id="proj01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
@@ -45,7 +45,7 @@ function initPage(src) {
 		</tr>
 		<tr id="proj03" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
-			<td class="ObjectDetailsValue">Proposed</td>
+			<td class="ObjectDetailsValue"></td>
 		</tr>
 		<tr id="proj04" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
@@ -57,11 +57,11 @@ function initPage(src) {
 		</tr>
 		<tr id="adv00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
-			<td class="ObjectDetailsValue">{46DF4F2C-28C7-4484-B1C1-C22F34C81D95}</td>
+			<td class="ObjectDetailsValue">{9D9DC846-3D28-4341-945D-B4F625304D71}</td>
 		</tr>
 		<tr id="adv01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
-			<td class="ObjectDetailsValue"><a href="EA291.html">Models</a></td>
+			<td class="ObjectDetailsValue"><a href="../../EA1/EA2/EA1/EA98.html">matricula</a>, <a href="../../EA2/EA2/EA183.html">Notas y cursos</a>, <a href="EA294.html">Models</a>, <a href="../../EA8/EA2/EA485.html">Class Model</a>, <a href="../../EA3/EA2/EA278.html">Class Model</a></td>
 		</tr>
 	</table>
 	
@@ -76,77 +76,45 @@ function initPage(src) {
 			<td width="100%" class="TableHeading">Attribute</td>
 		</tr>
 						<tr>
-				<td width="100%" class="TableRow" valign="top"><i>private CharField</i><br /><strong>&nbsp;&nbsp;nombre</strong></td>
+				<td width="100%" class="TableRow" valign="top"><i>private CharField</i><br /><strong>&nbsp;&nbsp;codigo</strong></td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">
-					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageAttributes764" onclick="parent.toggleDiv('detailsDIVAttributes764','DetailsImageAttributes764')" />Details:
-						<div id="detailsDIVAttributes764" class="DetailsDiv" >
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageAttributes820" onclick="parent.toggleDiv('detailsDIVAttributes820','DetailsImageAttributes820')" />Details:
+						<div id="detailsDIVAttributes820" class="DetailsDiv" >
 						<i></i>&nbsp;
 						</div>
 					</div>
 				</td>
 			</tr>			<tr>
-				<td width="100%" class="TableRow" valign="top"><i>private BooleandField</i><br /><strong>&nbsp;&nbsp;estado</strong></td>
+				<td width="100%" class="TableRow" valign="top"><i>private CharField</i><br /><strong>&nbsp;&nbsp;descripción</strong></td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">
-					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageAttributes765" onclick="parent.toggleDiv('detailsDIVAttributes765','DetailsImageAttributes765')" />Details:
-						<div id="detailsDIVAttributes765" class="DetailsDiv" >
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageAttributes821" onclick="parent.toggleDiv('detailsDIVAttributes821','DetailsImageAttributes821')" />Details:
+						<div id="detailsDIVAttributes821" class="DetailsDiv" >
 						<i></i>&nbsp;
 						</div>
 					</div>
 				</td>
 			</tr>			<tr>
-				<td width="100%" class="TableRow" valign="top"><i>private DateTimeField</i><br /><strong>&nbsp;&nbsp;hora_inicio</strong></td>
+				<td width="100%" class="TableRow" valign="top"><i>private IntegerField</i><br /><strong>&nbsp;&nbsp;num_vacantes</strong></td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">
-					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageAttributes766" onclick="parent.toggleDiv('detailsDIVAttributes766','DetailsImageAttributes766')" />Details:
-						<div id="detailsDIVAttributes766" class="DetailsDiv" >
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageAttributes822" onclick="parent.toggleDiv('detailsDIVAttributes822','DetailsImageAttributes822')" />Details:
+						<div id="detailsDIVAttributes822" class="DetailsDiv" >
 						<i></i>&nbsp;
 						</div>
 					</div>
 				</td>
 			</tr>			<tr>
-				<td width="100%" class="TableRow" valign="top"><i>private DateTimeField</i><br /><strong>&nbsp;&nbsp;hora_fin</strong></td>
+				<td width="100%" class="TableRow" valign="top"><i>private CharField</i><br /><strong>&nbsp;&nbsp;Aula</strong></td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">
-					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageAttributes767" onclick="parent.toggleDiv('detailsDIVAttributes767','DetailsImageAttributes767')" />Details:
-						<div id="detailsDIVAttributes767" class="DetailsDiv" >
-						<i></i>&nbsp;
-						</div>
-					</div>
-				</td>
-			</tr>			<tr>
-				<td width="100%" class="TableRow" valign="top"><i>private CharField</i><br /><strong>&nbsp;&nbsp;hora_academica</strong></td>
-			</tr>
-			<tr>
-				<td class="TableRowBottomDashed"  colspan="1">
-					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageAttributes768" onclick="parent.toggleDiv('detailsDIVAttributes768','DetailsImageAttributes768')" />Details:
-						<div id="detailsDIVAttributes768" class="DetailsDiv" >
-						<i></i><div class="ObjectDetailsNotes"><table>
-	<tr>
-		<td valign="top">
-			<i>Notas: </i><span style="margin-left: .4cm;"> </span>
-		</td>
-		<td>
-			Cuanto tiempo sera considerado una hora academica: ejm= 45min, 50min, etc&lt;br /&gt;
-		</td>
-	</tr>
-</table></div>
-
-						</div>
-					</div>
-				</td>
-			</tr>			<tr>
-				<td width="100%" class="TableRow" valign="top"><i>private CharField</i><br /><strong>&nbsp;&nbsp;duracion_recreo</strong></td>
-			</tr>
-			<tr>
-				<td class="TableRowBottomDashed"  colspan="1">
-					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageAttributes769" onclick="parent.toggleDiv('detailsDIVAttributes769','DetailsImageAttributes769')" />Details:
-						<div id="detailsDIVAttributes769" class="DetailsDiv" >
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageAttributes823" onclick="parent.toggleDiv('detailsDIVAttributes823','DetailsImageAttributes823')" />Details:
+						<div id="detailsDIVAttributes823" class="DetailsDiv" >
 						<i></i>&nbsp;
 						</div>
 					</div>
@@ -163,13 +131,19 @@ function initPage(src) {
 					<td width="40%" class="TableHeading">Notes</td>
 				</tr>
 				<tr>
-					<td width="30%" class="TableRow" valign="top"><a href="EA305.html">HorasPedagogicas</a></td>
+					<td width="30%" class="TableRow" valign="top"><a href="../../EA8/EA2/EA491.html">Perfil_Aula</a></td>
 					<td width="15%" class="TableRow" valign="top">Class</td>
 					<td width="15%" class="TableRow" valign="top">Dependencia</td>
 					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
 				</tr>
 				<tr>
-					<td width="30%" class="TableRow" valign="top"><a href="EA319.html">Institucion</a></td>
+					<td width="30%" class="TableRow" valign="top"><a href="EA305.html">Docente</a></td>
+					<td width="15%" class="TableRow" valign="top">Class</td>
+					<td width="15%" class="TableRow" valign="top">Dependencia</td>
+					<td width="40%" class="TableRow" valign="top">&nbsp;</td>
+				</tr>
+				<tr>
+					<td width="30%" class="TableRow" valign="top"><a href="EA313.html">PeriodoGrado</a></td>
 					<td width="15%" class="TableRow" valign="top">Class</td>
 					<td width="15%" class="TableRow" valign="top">Dependencia</td>
 					<td width="40%" class="TableRow" valign="top">&nbsp;</td>

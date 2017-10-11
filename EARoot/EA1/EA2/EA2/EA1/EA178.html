@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>fi</title>
+<title>deplega un modal con losdatos existentes</title>
 <link href="../../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {
@@ -16,15 +16,15 @@ function initPage(src) {
 <body onload="initPage(this);" class="Content">
 <div class="pageHeader"></div>
 <div class="PageBody">
-	<span class="ObjectTitle">fi  : public   finaldeactividad</span>
+	<span class="ObjectTitle">deplega un modal con losdatos existentes  : public   actividad</span>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>
-			<td width="85%" class="ObjectDetailsValue">4/10/2017 00:40:53</td>
+			<td width="85%" class="ObjectDetailsValue">4/10/2017 00:36:25</td>
 		</tr>
 		<tr>
 			<td class="ObjectDetailsTopic">Modified:</td>
-			<td class="ObjectDetailsValue">4/10/2017 01:22:35</td>
+			<td class="ObjectDetailsValue">4/10/2017 00:38:17</td>
 		</tr>
 		<tr style="height: 10px"><td colspan="2"></td></tr>
 		<tr>
@@ -57,18 +57,44 @@ function initPage(src) {
 		</tr>
 		<tr id="adv00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
-			<td class="ObjectDetailsValue">{AA718060-D6DE-4818-8384-6D1429625AA1}</td>
+			<td class="ObjectDetailsValue">{0C1D0525-EEAA-4efd-93AB-18DF4A866165}</td>
 		</tr>
 		<tr id="adv01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
-			<td class="ObjectDetailsValue"><a href="EA118.html">modificar notas</a></td>
+			<td class="ObjectDetailsValue"><a href="EA120.html">modificar notas</a></td>
 		</tr>
 	</table>
 	
 	<div class="TableGroup" id="TableGroup">
 		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('FlowHasta');" id="FlowHastaTitle">Flujo Hasta</li>
 			<li onClick="parent.toggleItem('FlowDesde');" id="FlowDesdeTitle">Flujo Desde</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Propiedades personalizadas</li>
 		</ul>
+		<div class="ItemBody" id="FlowHastaTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="50%" class="TableHeading">Element</td>
+					<td width="50%" class="TableHeading">Name</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top">
+						<a href="EA176.html">Modifica los datos</a><br />
+						Actividad &nbsp;
+					</td>
+					<td width="50%" class="TableRow" valign="top">&nbsp;</td>					
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow316" onclick="parent.toggleDiv('detailsDIVLinkFlow316', 'DetailsImageLinkFlow316')" />Details:
+							<div id="detailsDIVLinkFlow316" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
 		<div class="ItemBody" id="FlowDesdeTable">
 			<table border="0" cellspacing="0" cellpadding="0" class="Table">
 				<tr>
@@ -77,15 +103,15 @@ function initPage(src) {
 				</tr>
 				<tr>
 					<td width="50%" class="TableRow" valign="top">
-						<a href="EA179.html">Guarda Los datos</a><br />
+						<a href="EA174.html">doble click en la nota a modificar</a><br />
 						Actividad &nbsp;
 					</td>
 					<td width="50%" class="TableRow" valign="top">&nbsp;</td>					
 				</tr>
 				<tr>
 					<td class="TableRowBottomDashed"  colspan="2">
-						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow324" onclick="parent.toggleDiv('detailsDIVLinkFlow324', 'DetailsImageLinkFlow324')" />Details:
-							<div id="detailsDIVLinkFlow324" class="DetailsDiv" >
+						<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow317" onclick="parent.toggleDiv('detailsDIVLinkFlow317', 'DetailsImageLinkFlow317')" />Details:
+							<div id="detailsDIVLinkFlow317" class="DetailsDiv" >
 							&nbsp;
 							</div>
 						</div>
@@ -93,7 +119,20 @@ function initPage(src) {
 				</tr>
 			</table>
 		</div>
-	</div>
+		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isReadOnly:</td>
+				<td width="70%" class="TableRow">false</td>
+			</tr>
+
+
+			</table>
+		</div>	</div>
 <div class="pageFooter"></div>
  
 </body>

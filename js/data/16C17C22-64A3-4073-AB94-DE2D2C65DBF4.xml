@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("1.2:1", "", "Class Model", "EARoot/EA1/EA2/EA34.html", "175.png", "105", "0", "", "Logical diagram0","{292E9198-06A2-4312-A114-8B40BCDDC4F6}");
+tocTab[tocTab.length] = new Array("1.2:1", "", "Class Model", "EARoot/EA1/EA2/EA34.html", "175.png", "179", "0", "", "Logical diagram0","{292E9198-06A2-4312-A114-8B40BCDDC4F6}");
 tocTab[tocTab.length] = new Array("1.2.1", "1", "Modulo matricula y registro de estudiantes", "EARoot/EA1/EA2/EA36.html", "4.png", "", "", "{90F74A05-6C3D-4c45-8E91-385682F43AEF}", "Package");
 tocTab[tocTab.length] = new Array("1.2.2", "1", "Modulo cursos y notas", "EARoot/EA1/EA2/EA37.html", "4.png", "", "", "{086B6E8A-9A96-4182-9924-6EE5F7CA2F87}", "Package");
 tocTab[tocTab.length] = new Array("1.2.3", "1", "Modulo de asistencia", "EARoot/EA1/EA2/EA38.html", "4.png", "", "", "{A2B2C774-7A83-4a35-8EC8-F5AB01AA4C40}", "Package");
